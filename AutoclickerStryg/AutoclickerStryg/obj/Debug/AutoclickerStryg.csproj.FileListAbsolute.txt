@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\bin\Debug\AutoclickerStryg.exe.config
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\bin\Debug\AutoclickerStryg.exe
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\bin\Debug\AutoclickerStryg.pdb
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.Form1.resources
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.Properties.Resources.resources
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.exe
+C:\Users\Admin\Desktop\Autoclicker\AutoclickerStryg\AutoclickerStryg\obj\Debug\AutoclickerStryg.pdb
